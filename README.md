@@ -13,7 +13,7 @@ This is an early attempt at making it more universal for use in printed toolhead
 
 > [!WARNING]
 > ### Not even tested  
-> Nothing on this repo has even been teted yet. 
+> Nothing on this repo has even been tested yet. 
 
 <br/><br/>
 
