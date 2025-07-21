@@ -11,9 +11,10 @@ Building on the work of Treintjes <a href="https://github.com/Treintjes/Magneto_
 This is an early attempt at making it more universal for use in printed toolheads. Starting of course with <a href="https://github.com/Armchair-Heavy-Industries/A4T">A4T</a>.
 <br/><br/><br/>
 
-> [!WARNING]
-> ### Not even tested  
-> Nothing on this repo has even been tested yet. 
+Currently under testing....
+
+Soon&trade;
+
 
 <br/><br/>
 
