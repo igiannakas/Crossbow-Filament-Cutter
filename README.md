@@ -3,7 +3,7 @@
 # A4T Cutter
 A CNC filament cutter from: [![ko-fi](docs/images/Ko-fi_smol.png)](https://ko-fi.com/O5O5OCC0K) [DW-Tas](https://github.com/DW-Tas)
 
-<img src='docs/images/A4T-Cutter.png' width=400 />
+<img src='docs/images/A4T-Cutter.png' width=400 /><br/>
 <img src='docs/images/A4T_cutter_render.png' width=400 />
 
 <br/> 
