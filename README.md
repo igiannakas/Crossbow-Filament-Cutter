@@ -33,7 +33,7 @@ Available Soon&trade;
 
 
 ### Credits
-* Treintjes <a href="https://github.com/Treintjes/Magneto_Filament_Cutter">Magneto_Filament_Cutter</a><br/><br/>
+* Inspired by Treintjes' <a href="https://github.com/Treintjes/Magneto_Filament_Cutter">Magneto_Filament_Cutter</a><br/><br/>
 * Beta testers
   * igiannakas <a href="https://github.com/igiannakas/">GitHub</a>
   * KnightRadiant <a href="https://github.com/jrlomas/">GitHub</a>
