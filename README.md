@@ -5,21 +5,31 @@
 
 <img src='docs/images/crossbow_cutter.png' width=400 /><br/><img src='docs/images/crossbow_cutter_render.png' width=400 />
 
-### Designed for A4T
-Crossbow was designed and developed around A4T, but is intended for universal for use in printed toolheads that have a flat mounting surface below the extruder.<br/><br/>
+## Design philosophy
+The crossbow filament cutter was developed to provide a robust, reliable, easily serviceable, versatile and universal filament cutting solution for printed toolheads. Key features include:
+1. Aluminum CNC construction: Reliable cutting action that can withstand multi-thousand operations without wear.
+2. Low profile and low mass: maintains toolhead rigidity, centre of mass and input shaper performance.
+3. Ease of servicing: two easily accessible screws to remove and replace cutting blade and clean the filament path.
+
+## Designed for the A4T, but intended for universal use
+Crossbow was designed and developed around the A4T, but is intended for universal for use in printed toolheads that have a flat mounting surface below the extruder.<br/><br/>
 Crossbow A4T parts can be downloaded here: <a href="https://github.com/Armchair-Heavy-Industries/A4T">https://github.com/Armchair-Heavy-Industries/A4T</a>.
-<br/><br/>
-
-#### Blade replacement
-There is a jig available to help with cutting down a #17A or #4 hobby knife blade: [Blade cutting and alignment jig.stl](<STL/Blade cutting and alignment jig.stl>)
->[<img src="https://img.youtube.com/vi/HI4ksrRDHjI/hqdefault.jpg" width="300" height="200"/>](https://www.youtube.com/embed/HI4ksrRDHjI)
-
-
-
 <br/><br/>
 
 > [!TIP] 
 > The design accomodates extruders that use the Sherpa-Mini or Oribiter v2.0 mounting hole spacing (Checked for fit with Dragon Burner in CAD models with an example Dragon Burner Mod included in the [Dragon Burner example](<Dragon Burner example>) folder).<br/><br/><img src='docs/images/dragon-burner-example.png' width=200 />
+
+## Blade replacement
+Blade replacement is generally recomended after 3000-4000 cuts, depending on the material being cut. Crossbow can use a #17A or #4 hobby knife blade. Trimming the blades to size is required. The following jig is available to help cut the blade down.
+
+**Jig BOM:**
+1. 4x M3x8 SHCS / BHCS screws
+2. 4x M3 Square Nuts (DIN 562)
+3. #17 or #4 hobby knife blade
+4. Printed jig parts: [Blade cutting and alignment jig.stl](<STL/Blade cutting and alignment jig.stl>)
+
+**Instructions video:**<br/>
+[<img src="https://img.youtube.com/vi/HI4ksrRDHjI/hqdefault.jpg" width="300" height="200"/>](https://www.youtube.com/embed/HI4ksrRDHjI)
 
 <br/>
 
