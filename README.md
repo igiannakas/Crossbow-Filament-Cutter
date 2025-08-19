@@ -3,34 +3,28 @@
 # Crossbow
 ### A CNC filament cutter from DW-Tas: <a href="https://ko-fi.com/O5O5OCC0K"><img src="docs/images/Ko-fi_smol.png"> Ko-Fi</a>, <a href="https://github.com/DW-Tas">GitHub</a>
 
-<img src='docs/images/crossbow_cutter.png' width=400 /><br/>
-<img src='docs/images/crossbow_cutter_render.png' width=400 />
+<img src='docs/images/crossbow_cutter.png' width=400 /><br/><img src='docs/images/crossbow_cutter_render.png' width=400 />
 
-<br/> 
-Crossbow is intended for universal for use in printed toolheads. Starting of course with <a href="https://github.com/Armchair-Heavy-Industries/A4T">A4T</a>.
+### Designed for A4T
+Crossbow was designed and developed around A4T, but is intended for universal for use in printed toolheads that have a flat mounting surface below the extruder.<br/><br/>
+Get the files from: <a href="https://github.com/Armchair-Heavy-Industries/A4T">https://github.com/Armchair-Heavy-Industries/A4T</a>.
 <br/><br/>
-This filament cutter should be adaptable to toolheads with a flat top surface where the extruder mounts with either Sherpa-Mini or Oribiter v2.0 extruder hole spacing.
-<br/><br/>
-Developed and tested on <a href="https://github.com/Armchair-Heavy-Industries/A4T">A4T</a>, but checked for fit with other toolheads like Dragon Burner in CAD models.
+> [!TIP] 
+> The design accomodates extruders that use the Sherpa-Mini or Oribiter v2.0 mounting hole spacing (Checked for fit with Dragon Burner in CAD models with an example Dragon Burner Mod included in the [Dragon Burner example](<Dragon Burner example>) folder).<br/><br/><img src='docs/images/dragon-burner-example.png' width=200 />
 
-<br/><br/><br/><br/>
+<br/>
+
 ## Licenced manufacturers
 Crossbow is being manufactured under license by:<br/><br/>
-<a href="https://aliexpress.com/store/2498059">![Fysetc](docs/images/fysetc.png)<br/>Fysetc AliExpress Store</a>
-
+<a href="https://aliexpress.com/store/3480083">![Fysetc](docs/images/fysetc.png)<br/>Fysetc AliExpress Store</a>
 <br/><br/>
 Available Soon&trade;
-
-
 <br/><br/>
-
 > [!TIP] 
 > ### You can help support the development of this project.<br/>
 > Donate at https://ko-fi.com/dwtas<br/>
 [![ko-fi](docs/images/Ko-fi_TextLogo.png)](https://ko-fi.com/dwtas)
-
 <br/><br/>
-
 
 ### Credits
 * Inspired by Treintjes' <a href="https://github.com/Treintjes/Magneto_Filament_Cutter">Magneto_Filament_Cutter</a><br/><br/>
@@ -39,9 +33,7 @@ Available Soon&trade;
   * KnightRadiant <a href="https://github.com/jrlomas/">GitHub</a>
   * jeremytodd1
   * jbob
-
-<br/><br/><br/><br/>
-
+<br/><br/>
 #### This work is licensed under a
 [Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License][cc-by-nc-sa].
 
