@@ -13,7 +13,7 @@ The crossbow filament cutter was developed to provide a robust, reliable, easily
 
 ## Designed for the A4T, but intended for universal use
 Crossbow was designed and developed around the A4T, but is intended for universal for use in printed toolheads that have a flat mounting surface below the extruder.<br/><br/>
-Crossbow A4T parts can be downloaded here: <a href="https://github.com/Armchair-Heavy-Industries/A4T">https://github.com/Armchair-Heavy-Industries/A4T</a>.
+Crossbow A4T parts can be downloaded here: <a href="https://github.com/Armchair-Heavy-Industries/A4T/tree/main/STL/Extruder%20Adapters/For%20Crossbow%20filament%20cutter">https://github.com/Armchair-Heavy-Industries/A4T</a>.
 <br/><br/>
 
 > [!TIP] 
