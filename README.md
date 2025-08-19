@@ -7,8 +7,17 @@
 
 ### Designed for A4T
 Crossbow was designed and developed around A4T, but is intended for universal for use in printed toolheads that have a flat mounting surface below the extruder.<br/><br/>
-Get the files from: <a href="https://github.com/Armchair-Heavy-Industries/A4T">https://github.com/Armchair-Heavy-Industries/A4T</a>.
+Crossbow A4T parts can be downloaded here: <a href="https://github.com/Armchair-Heavy-Industries/A4T">https://github.com/Armchair-Heavy-Industries/A4T</a>.
 <br/><br/>
+
+#### Blade replacement
+There is a jig available to help with cutting down a #17 or #4 hobby knife blade: [Blade cutting and alignment jig.stl](<STL/Blade cutting and alignment jig.stl>)
+>[<img src="https://img.youtube.com/vi/HI4ksrRDHjI/hqdefault.jpg" width="300" height="200"/>](https://www.youtube.com/embed/HI4ksrRDHjI)
+
+
+
+<br/><br/>
+
 > [!TIP] 
 > The design accomodates extruders that use the Sherpa-Mini or Oribiter v2.0 mounting hole spacing (Checked for fit with Dragon Burner in CAD models with an example Dragon Burner Mod included in the [Dragon Burner example](<Dragon Burner example>) folder).<br/><br/><img src='docs/images/dragon-burner-example.png' width=200 />
 
