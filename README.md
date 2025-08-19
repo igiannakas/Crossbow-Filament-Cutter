@@ -11,7 +11,7 @@ Crossbow A4T parts can be downloaded here: <a href="https://github.com/Armchair-
 <br/><br/>
 
 #### Blade replacement
-There is a jig available to help with cutting down a #17 or #4 hobby knife blade: [Blade cutting and alignment jig.stl](<STL/Blade cutting and alignment jig.stl>)
+There is a jig available to help with cutting down a #17A or #4 hobby knife blade: [Blade cutting and alignment jig.stl](<STL/Blade cutting and alignment jig.stl>)
 >[<img src="https://img.youtube.com/vi/HI4ksrRDHjI/hqdefault.jpg" width="300" height="200"/>](https://www.youtube.com/embed/HI4ksrRDHjI)
 
 
