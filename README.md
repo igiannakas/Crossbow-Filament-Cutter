@@ -36,8 +36,8 @@ Blade replacement is generally recomended after 3000-4000 cuts, depending on the
 ## Licenced manufacturers
 Crossbow is being manufactured under license by:<br/><br/>
 <a href="https://aliexpress.com/store/3480083">![Fysetc](docs/images/fysetc.png)<br/>Fysetc AliExpress Store</a>
-<br/><br/>
-Available Soon&trade;
+<br/>
+Buy it now: <a href="https://aliexpress.com/item/1005009769281594.html">Direct product listing</a>
 <br/><br/>
 > [!TIP] 
 > ### You can help support the development of this project.<br/>
