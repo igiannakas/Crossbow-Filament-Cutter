@@ -31,7 +31,17 @@ Blade replacement is generally recomended after 3000-4000 cuts, depending on the
 **Instructions video:**<br/>
 [<img src="https://img.youtube.com/vi/HI4ksrRDHjI/hqdefault.jpg" width="300" height="200"/>](https://www.youtube.com/embed/HI4ksrRDHjI)
 
-<br/>
+<br/><br/>
+
+## Screw adjustment
+
+> [!WARNING] 
+> The two main screws that act as pivots should have medium thread locking compound applied.
+
+* **Lever Arm Pivot:** Tighten the screw to allow smooth movement of the lever arm during cutting, while preventing vertical play or rattling.
+* **Blade Holder Pivot:** Start with the screw too loose then tighten the screw until the blade begins to shift slightly toward the filament path during its cutting motion. This ensures full travel of the cutting arm and minimizes unwanted movement.
+
+<br/><br/>
 
 ## Licenced manufacturers
 Crossbow is being manufactured under license by:<br/><br/>
